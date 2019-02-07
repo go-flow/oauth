@@ -1,5 +1,5 @@
 # flow oAuth
-[![Build Status](https://api.travis-ci.com/go-flow/oauth.svg?branch=master)](https://travis-ci.org/go-flow/oauth)
+[![Build Status](https://api.travis-ci.com/go-flow/oauth.svg?branch=master)](https://travis-ci.com/go-flow/oauth)
 [![codecov](https://codecov.io/gh/go-flow/oauth/branch/master/graph/badge.svg)](https://codecov.io/gh/go-flow/oauth)
 [![GoDoc](https://godoc.org/github.com/go-flow/oauth?status.svg)](https://godoc.org/github.com/go-flow/oauth)
 [![GoReport](https://goreportcard.com/badge/github.com/go-flow/oauth)](https://goreportcard.com/report/github.com/go-flow/oauth)
